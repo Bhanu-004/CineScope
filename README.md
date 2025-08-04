@@ -27,5 +27,6 @@ CineScope is a machine learning-based movie recommender system designed to provi
 
 
 
+<img width="956" height="494" alt="c7" src="https://github.com/user-attachments/assets/308e74de-3fed-4280-9b34-ed9e8b7c16f5" />
 
 
